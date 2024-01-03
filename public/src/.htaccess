@@ -1,0 +1,8 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+
+    # Redirect .html URLs to extensionless URLs
+    RewriteRule ^([^\.]+)\.html$ /$1 [L,R=301]
+</IfModule>

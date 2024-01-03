@@ -1,0 +1,20 @@
+/****************************/
+/** Imports Plugin css **/
+/****************************/
+@import url(../assets/vendor_components/bootstrap/dist/css/bootstrap.css);
+@import url(../assets/vendor_components/OwlCarousel2/dist/assets/owl.carousel.css);
+@import url(../assets/vendor_components/OwlCarousel2/dist/assets/owl.theme.default.css);
+@import url(../assets/vendor_components/horizontal-timeline/css/horizontal-timeline.css);
+@import url(../assets/vendor_components/flexslider/flexslider.css);
+@import url(../assets/vendor_components/datatable/datatables.min.css);
+@import url(../assets/vendor_components/sweetalert/sweetalert.css);
+@import url(../assets/vendor_components/bootstrap-markdown-master/css/bootstrap-markdown.css);
+@import url(../assets/vendor_components/select2/dist/css/select2.min.css);
+@import url(../assets/vendor_components/bootstrap-daterangepicker/daterangepicker.css);
+@import url(../assets/vendor_components/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css);
+@import url(../assets/vendor_components/bootstrap-colorpicker/dist/css/bootstrap-colorpicker.min.css);
+@import url(../assets/vendor_components/bootstrap-switch/switch.css);
+@import url(../assets/vendor_components/c3/c3.min.css);
+@import url(../assets/vendor_plugins/bootstrap-slider/slider.css);
+
+/*# sourceMappingURL=vendors_css.css.map */

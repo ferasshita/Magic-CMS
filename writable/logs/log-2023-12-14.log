@@ -1,0 +1,169 @@
+CRITICAL - 2023-12-14 21:44:34 --> foreach() argument must be of type array|object, string given
+in APPPATH\Helpers\functions_zone_helper.php on line 274.
+ 1 APPPATH\Helpers\functions_zone_helper.php(274): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, string given', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Helpers\\functions_zone_helper.php', 274)
+ 2 APPPATH\Controllers\Includes.php(65): table_view('table', 'column', 'filter')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Includes->fetch_table()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Includes))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-14 21:45:59 --> mysqli_sql_exception: Table 'website.table' doesn't exist in C:\xampp-2\htdocs\magic_pro\website\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp-2\htdocs\magic_pro\website\system\Database\MySQLi\Connection.php(306): mysqli->query('SHOW COLUMNS FR...', 0)
+#1 C:\xampp-2\htdocs\magic_pro\website\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SHOW COLUMNS FR...')
+#2 C:\xampp-2\htdocs\magic_pro\website\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SHOW COLUMNS FR...')
+#3 C:\xampp-2\htdocs\magic_pro\website\system\Database\MySQLi\Connection.php(422): CodeIgniter\Database\BaseConnection->query('SHOW COLUMNS FR...')
+#4 C:\xampp-2\htdocs\magic_pro\website\system\Database\BaseConnection.php(1524): CodeIgniter\Database\MySQLi\Connection->_fieldData('`table`')
+#5 C:\xampp-2\htdocs\magic_pro\website\app\Models\Comman_model.php(38): CodeIgniter\Database\BaseConnection->getFieldData('table')
+#6 C:\xampp-2\htdocs\magic_pro\website\app\Helpers\functions_zone_helper.php(278): App\Models\Comman_model->getFieldData('table')
+#7 C:\xampp-2\htdocs\magic_pro\website\app\Controllers\Includes.php(65): table_view('table', '', '')
+#8 C:\xampp-2\htdocs\magic_pro\website\system\CodeIgniter.php(942): App\Controllers\Includes->fetch_table()
+#9 C:\xampp-2\htdocs\magic_pro\website\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Includes))
+#10 C:\xampp-2\htdocs\magic_pro\website\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp-2\htdocs\magic_pro\website\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-12-14 21:45:59 --> Table 'website.table' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(422): CodeIgniter\Database\BaseConnection->query('SHOW COLUMNS FROM `table`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(1524): CodeIgniter\Database\MySQLi\Connection->_fieldData('`table`')
+ 3 APPPATH\Models\Comman_model.php(38): CodeIgniter\Database\BaseConnection->getFieldData('table')
+ 4 APPPATH\Helpers\functions_zone_helper.php(278): App\Models\Comman_model->getFieldData('table')
+ 5 APPPATH\Controllers\Includes.php(65): table_view('table', '', '')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Includes->fetch_table()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Includes))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-14 21:46:16 --> mysqli_sql_exception: Table 'website.transaction' doesn't exist in C:\xampp-2\htdocs\magic_pro\website\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp-2\htdocs\magic_pro\website\system\Database\MySQLi\Connection.php(306): mysqli->query('SHOW COLUMNS FR...', 0)
+#1 C:\xampp-2\htdocs\magic_pro\website\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SHOW COLUMNS FR...')
+#2 C:\xampp-2\htdocs\magic_pro\website\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SHOW COLUMNS FR...')
+#3 C:\xampp-2\htdocs\magic_pro\website\system\Database\MySQLi\Connection.php(422): CodeIgniter\Database\BaseConnection->query('SHOW COLUMNS FR...')
+#4 C:\xampp-2\htdocs\magic_pro\website\system\Database\BaseConnection.php(1524): CodeIgniter\Database\MySQLi\Connection->_fieldData('`transaction`')
+#5 C:\xampp-2\htdocs\magic_pro\website\app\Models\Comman_model.php(38): CodeIgniter\Database\BaseConnection->getFieldData('transaction')
+#6 C:\xampp-2\htdocs\magic_pro\website\app\Helpers\functions_zone_helper.php(278): App\Models\Comman_model->getFieldData('transaction')
+#7 C:\xampp-2\htdocs\magic_pro\website\app\Controllers\Includes.php(65): table_view('transaction', '', '')
+#8 C:\xampp-2\htdocs\magic_pro\website\system\CodeIgniter.php(942): App\Controllers\Includes->fetch_table()
+#9 C:\xampp-2\htdocs\magic_pro\website\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Includes))
+#10 C:\xampp-2\htdocs\magic_pro\website\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp-2\htdocs\magic_pro\website\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-12-14 21:46:16 --> Table 'website.transaction' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(422): CodeIgniter\Database\BaseConnection->query('SHOW COLUMNS FROM `transaction`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(1524): CodeIgniter\Database\MySQLi\Connection->_fieldData('`transaction`')
+ 3 APPPATH\Models\Comman_model.php(38): CodeIgniter\Database\BaseConnection->getFieldData('transaction')
+ 4 APPPATH\Helpers\functions_zone_helper.php(278): App\Models\Comman_model->getFieldData('transaction')
+ 5 APPPATH\Controllers\Includes.php(65): table_view('transaction', '', '')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Includes->fetch_table()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Includes))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-14 21:46:46 --> mysqli_sql_exception: Table 'website.transactions' doesn't exist in C:\xampp-2\htdocs\magic_pro\website\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp-2\htdocs\magic_pro\website\system\Database\MySQLi\Connection.php(306): mysqli->query('SHOW COLUMNS FR...', 0)
+#1 C:\xampp-2\htdocs\magic_pro\website\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SHOW COLUMNS FR...')
+#2 C:\xampp-2\htdocs\magic_pro\website\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SHOW COLUMNS FR...')
+#3 C:\xampp-2\htdocs\magic_pro\website\system\Database\MySQLi\Connection.php(422): CodeIgniter\Database\BaseConnection->query('SHOW COLUMNS FR...')
+#4 C:\xampp-2\htdocs\magic_pro\website\system\Database\BaseConnection.php(1524): CodeIgniter\Database\MySQLi\Connection->_fieldData('`transactions`')
+#5 C:\xampp-2\htdocs\magic_pro\website\app\Models\Comman_model.php(38): CodeIgniter\Database\BaseConnection->getFieldData('transactions')
+#6 C:\xampp-2\htdocs\magic_pro\website\app\Helpers\functions_zone_helper.php(278): App\Models\Comman_model->getFieldData('transactions')
+#7 C:\xampp-2\htdocs\magic_pro\website\app\Controllers\Includes.php(65): table_view('transactions', '', '')
+#8 C:\xampp-2\htdocs\magic_pro\website\system\CodeIgniter.php(942): App\Controllers\Includes->fetch_table()
+#9 C:\xampp-2\htdocs\magic_pro\website\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Includes))
+#10 C:\xampp-2\htdocs\magic_pro\website\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp-2\htdocs\magic_pro\website\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-12-14 21:46:46 --> Table 'website.transactions' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(422): CodeIgniter\Database\BaseConnection->query('SHOW COLUMNS FROM `transactions`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(1524): CodeIgniter\Database\MySQLi\Connection->_fieldData('`transactions`')
+ 3 APPPATH\Models\Comman_model.php(38): CodeIgniter\Database\BaseConnection->getFieldData('transactions')
+ 4 APPPATH\Helpers\functions_zone_helper.php(278): App\Models\Comman_model->getFieldData('transactions')
+ 5 APPPATH\Controllers\Includes.php(65): table_view('transactions', '', '')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Includes->fetch_table()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Includes))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-14 21:46:48 --> mysqli_sql_exception: Table 'website.transactions' doesn't exist in C:\xampp-2\htdocs\magic_pro\website\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp-2\htdocs\magic_pro\website\system\Database\MySQLi\Connection.php(306): mysqli->query('SHOW COLUMNS FR...', 0)
+#1 C:\xampp-2\htdocs\magic_pro\website\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SHOW COLUMNS FR...')
+#2 C:\xampp-2\htdocs\magic_pro\website\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SHOW COLUMNS FR...')
+#3 C:\xampp-2\htdocs\magic_pro\website\system\Database\MySQLi\Connection.php(422): CodeIgniter\Database\BaseConnection->query('SHOW COLUMNS FR...')
+#4 C:\xampp-2\htdocs\magic_pro\website\system\Database\BaseConnection.php(1524): CodeIgniter\Database\MySQLi\Connection->_fieldData('`transactions`')
+#5 C:\xampp-2\htdocs\magic_pro\website\app\Models\Comman_model.php(38): CodeIgniter\Database\BaseConnection->getFieldData('transactions')
+#6 C:\xampp-2\htdocs\magic_pro\website\app\Helpers\functions_zone_helper.php(278): App\Models\Comman_model->getFieldData('transactions')
+#7 C:\xampp-2\htdocs\magic_pro\website\app\Controllers\Includes.php(65): table_view('transactions', '', '')
+#8 C:\xampp-2\htdocs\magic_pro\website\system\CodeIgniter.php(942): App\Controllers\Includes->fetch_table()
+#9 C:\xampp-2\htdocs\magic_pro\website\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Includes))
+#10 C:\xampp-2\htdocs\magic_pro\website\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp-2\htdocs\magic_pro\website\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-12-14 21:46:48 --> Table 'website.transactions' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(422): CodeIgniter\Database\BaseConnection->query('SHOW COLUMNS FROM `transactions`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(1524): CodeIgniter\Database\MySQLi\Connection->_fieldData('`transactions`')
+ 3 APPPATH\Models\Comman_model.php(38): CodeIgniter\Database\BaseConnection->getFieldData('transactions')
+ 4 APPPATH\Helpers\functions_zone_helper.php(278): App\Models\Comman_model->getFieldData('transactions')
+ 5 APPPATH\Controllers\Includes.php(65): table_view('transactions', '', '')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Includes->fetch_table()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Includes))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-14 21:47:27 --> Undefined array key "q"
+in APPPATH\Helpers\functions_zone_helper.php on line 292.
+ 1 APPPATH\Helpers\functions_zone_helper.php(292): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "q"', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Helpers\\functions_zone_helper.php', 292)
+ 2 APPPATH\Controllers\Includes.php(65): table_view('team', '', '')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Includes->fetch_table()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Includes))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-14 21:52:02 --> Using $this when not in object context
+in APPPATH\Helpers\functions_zone_helper.php on line 292.
+ 1 APPPATH\Controllers\Includes.php(65): table_view('team', '', '')
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Includes->fetch_table()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Includes))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-14 21:53:45 --> Undefined variable $sds
+in APPPATH\Helpers\functions_zone_helper.php on line 292.
+ 1 APPPATH\Helpers\functions_zone_helper.php(292): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $sds', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Helpers\\functions_zone_helper.php', 292)
+ 2 APPPATH\Controllers\Includes.php(65): table_view('team', '', '')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Includes->fetch_table()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Includes))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-14 21:53:55 --> Using $this when not in object context
+in APPPATH\Helpers\functions_zone_helper.php on line 292.
+ 1 APPPATH\Controllers\Includes.php(65): table_view('team', '', '')
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Includes->fetch_table()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Includes))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-14 22:24:22 --> Using $this when not in object context
+in APPPATH\Helpers\functions_zone_helper.php on line 292.
+ 1 APPPATH\Controllers\Includes.php(65): table_view('team', '', '')
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Includes->fetch_table()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Includes))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-14 22:26:22 --> mysqli_sql_exception: Table 'website.transaction' doesn't exist in C:\xampp-2\htdocs\magic_pro\website\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp-2\htdocs\magic_pro\website\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT * FROM t...', 0)
+#1 C:\xampp-2\htdocs\magic_pro\website\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM t...')
+#2 C:\xampp-2\htdocs\magic_pro\website\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM t...')
+#3 C:\xampp-2\htdocs\magic_pro\website\app\Models\Comman_model.php(54): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#4 C:\xampp-2\htdocs\magic_pro\website\app\Controllers\Includes.php(52): App\Models\Comman_model->get_all_data_by_query('SELECT * FROM t...')
+#5 C:\xampp-2\htdocs\magic_pro\website\system\CodeIgniter.php(942): App\Controllers\Includes->fetch_posts_home()
+#6 C:\xampp-2\htdocs\magic_pro\website\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Includes))
+#7 C:\xampp-2\htdocs\magic_pro\website\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp-2\htdocs\magic_pro\website\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-12-14 22:26:22 --> Table 'website.transaction' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Models\Comman_model.php(54): CodeIgniter\Database\BaseConnection->query('SELECT * FROM transaction ORDER BY date DESC LIMIT 0,10')
+ 2 APPPATH\Controllers\Includes.php(52): App\Models\Comman_model->get_all_data_by_query('SELECT * FROM transaction ORDER BY date DESC LIMIT 0,10')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Includes->fetch_posts_home()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Includes))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

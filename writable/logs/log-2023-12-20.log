@@ -1,0 +1,385 @@
+CRITICAL - 2023-12-20 19:40:47 --> include(src/Includes.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/Includes.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('Includes', 'fetch_posts_undefined')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 19:40:47 --> include(src/Asset.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/Asset.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 19:56:12 --> include(src/Includes.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/Includes.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('Includes', 'fetch_posts_undefined')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 19:56:12 --> include(src/Asset.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/Asset.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:05:21 --> Undefined variable $url
+in APPPATH\Views\editor\editor.php on line 50.
+ 1 APPPATH\Views\editor\editor.php(50): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $url', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\editor\\editor.php', 50)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\editor\\editor.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('editor/editor', [], true)
+ 5 APPPATH\Controllers\editor.php(22): view('editor/editor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Editor->edit()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editor))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:05:31 --> Undefined array key "extension"
+in APPPATH\Views\editor\editor.php on line 60.
+ 1 APPPATH\Views\editor\editor.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "extension"', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\editor\\editor.php', 60)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\editor\\editor.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('editor/editor', [], true)
+ 5 APPPATH\Controllers\editor.php(22): view('editor/editor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Editor->edit()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editor))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:05:49 --> Undefined array key "extension"
+in APPPATH\Views\editor\editor.php on line 60.
+ 1 APPPATH\Views\editor\editor.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "extension"', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\editor\\editor.php', 60)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\editor\\editor.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('editor/editor', [], true)
+ 5 APPPATH\Controllers\editor.php(22): view('editor/editor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Editor->edit()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editor))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:08:13 --> include(src/src.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/src.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('src', 'my-pages', 'my-page')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:08:38 --> include(src/src.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/src.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('src', 'my-pages', 'my-page')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:09:21 --> include(src/src.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/src.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('src', 'my-page')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:09:28 --> include(src/Includes.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/Includes.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('Includes', 'fetch_posts_undefined')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:09:29 --> include(src/Asset.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/Asset.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:11:12 --> include(src/Includes.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/Includes.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('Includes', 'fetch_posts_undefined')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:11:13 --> include(src/Asset.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/Asset.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:11:15 --> include(src/src.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/src.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('src', 'my-page')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:11:41 --> include(src/Includes.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/Includes.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('Includes', 'fetch_posts_undefined')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:11:41 --> include(src/Asset.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/Asset.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:11:44 --> include(src/src.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/src.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('src', 'my-page')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:11:57 --> include(src/src.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/src.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('src', 'my-pages', 'my-page')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:11:59 --> include(src/src.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/src.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('src', 'jfksj')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:12:21 --> include(src/my-page.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/my-page.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('my-page')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:12:21 --> include(src/src.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/src.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('src', 'my-page')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:20:52 --> include(src/src.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/src.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('src', 'my-page')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:22:09 --> include(src/Includes.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/Includes.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('Includes', 'fetch_posts_undefined')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:22:10 --> include(src/Asset.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/Asset.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:22:15 --> include(src/Includes.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/Includes.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('Includes', 'fetch_posts_undefined')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:22:15 --> include(src/Asset.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/Asset.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:22:17 --> include(src/src.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/src.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('src', 'my-page')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:22:49 --> include(src/my-page.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/my-page.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('my-page')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:23:13 --> include(src/my-page.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/my-page.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('my-page')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:23:53 --> include(src/my-page.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/my-page.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('my-page')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:23:53 --> include(src/my-page.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/my-page.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('my-page')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:24:07 --> include(src/my-page.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/my-page.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('my-page')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:24:45 --> include(src/my-page.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/my-page.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('my-page')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:24:45 --> include(src/src.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/src.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('src', 'my-page')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:25:33 --> include(src/my-page.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/my-page.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('my-page')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:25:42 --> include(src/src.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/src.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('src', 'my-page')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:39:20 --> include(src/my-page.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/my-page.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('my-page')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:39:20 --> include(src/my-pages.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/my-pages.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('my-pages', 'my-page')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:39:26 --> include(src/Includes.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/Includes.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('Includes', 'fetch_posts_undefined')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:39:27 --> include(src/Asset.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/Asset.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:40:22 --> include(src/my-pages.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/my-pages.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('my-pages', 'my-page')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:40:22 --> include(src/my-pages.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/my-pages.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('my-pages', 'my-page')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:40:30 --> include(src/Includes.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/Includes.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('Includes', 'fetch_posts_undefined')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:40:30 --> include(src/Asset.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/Asset.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:40:34 --> include(src/my-pages.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/my-pages.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('my-pages', 'my-page')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-20 20:40:42 --> include(src/my-pages.html): Failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 43.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(src/my-pages.html): Failed to open stream: No such file or directory', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 43)
+ 2 APPPATH\Controllers\Home.php(43): include()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->page('my-pages', 'my-page')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

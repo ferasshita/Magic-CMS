@@ -1,0 +1,44 @@
+{
+    "theme_color": "#1d2741",
+    "background_color": "#1d2741",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "http://localhost/projects/test_0",
+    "name": "Project system",
+    "short_name": "Project",
+    "description": "Alsaraf currency exchange POS. from here you can control your currency exchange by easy way from any where by Alsaraf currency exchange",
+    "icons": [
+        {
+            "src": "icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+  "related_applications": [
+	{
+	  "platform": "play",
+	  "url": "https://play.google.com/store/apps/details?id=com.example.myapp",
+	  "id": "com.example.myapp"
+	}
+  ],
+  "prefer_related_applications": true,
+  "orientation": "portrait",
+  "lang": "en-US",
+  "dir": "ltr"
+}
+

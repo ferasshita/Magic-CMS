@@ -1,0 +1,55 @@
+WARNING - 2023-11-19 14:40:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$account_model is deprecated in APPPATH\Controllers\Account.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-19 14:40:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$comman_model is deprecated in APPPATH\Controllers\Account.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-19 14:40:56 --> [DEPRECATED] Constant FILTER_SANITIZE_STRING is deprecated in APPPATH\Controllers\Account.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-19 14:40:56 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\Account.php on line 13.
+ 1 APPPATH\Controllers\Account.php(13): htmlentities(null, 513)
+ 2 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Account->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-19 14:40:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-19 14:40:56 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\Account.php on line 594.
+ 1 APPPATH\Controllers\Account.php(594): htmlentities(null)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Account->doforgot_verifi()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Account))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-19 14:40:56 --> [DEPRECATED] Constant FILTER_SANITIZE_STRING is deprecated in APPPATH\Controllers\Account.php on line 594.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Account->doforgot_verifi()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Account))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-19 14:40:56 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\Account.php on line 595.
+ 1 APPPATH\Controllers\Account.php(595): htmlentities(null)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Account->doforgot_verifi()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Account))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-19 14:40:56 --> [DEPRECATED] Constant FILTER_SANITIZE_STRING is deprecated in APPPATH\Controllers\Account.php on line 595.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Account->doforgot_verifi()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Account))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-19 14:40:56 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\Account.php on line 596.
+ 1 APPPATH\Controllers\Account.php(596): htmlentities(null)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Account->doforgot_verifi()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Account))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-19 14:40:56 --> [DEPRECATED] Constant FILTER_SANITIZE_STRING is deprecated in APPPATH\Controllers\Account.php on line 596.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Account->doforgot_verifi()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Account))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,56 @@
+WARNING - 2023-12-12 14:09:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Editor::$comman_model is deprecated in APPPATH\Controllers\editor.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Editor->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-12 14:09:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-12 14:09:26 --> [DEPRECATED] Constant FILTER_SANITIZE_STRING is deprecated in APPPATH\Controllers\editor.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Editor->edit()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editor))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-12 14:09:26 --> [DEPRECATED] Constant FILTER_SANITIZE_STRING is deprecated in APPPATH\Controllers\editor.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Editor->edit()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editor))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-12 15:07:37 --> mysqli_sql_exception: Table 'website.transaction' doesn't exist in C:\xampp-2\htdocs\magic_pro\website\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp-2\htdocs\magic_pro\website\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT * FROM t...', 0)
+#1 C:\xampp-2\htdocs\magic_pro\website\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM t...')
+#2 C:\xampp-2\htdocs\magic_pro\website\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM t...')
+#3 C:\xampp-2\htdocs\magic_pro\website\app\Models\Comman_model.php(54): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#4 C:\xampp-2\htdocs\magic_pro\website\app\Controllers\Includes.php(52): App\Models\Comman_model->get_all_data_by_query('SELECT * FROM t...')
+#5 C:\xampp-2\htdocs\magic_pro\website\system\CodeIgniter.php(942): App\Controllers\Includes->fetch_posts_home()
+#6 C:\xampp-2\htdocs\magic_pro\website\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Includes))
+#7 C:\xampp-2\htdocs\magic_pro\website\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp-2\htdocs\magic_pro\website\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-12-12 15:07:37 --> Table 'website.transaction' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Models\Comman_model.php(54): CodeIgniter\Database\BaseConnection->query('SELECT * FROM transaction ORDER BY date DESC LIMIT 0,10')
+ 2 APPPATH\Controllers\Includes.php(52): App\Models\Comman_model->get_all_data_by_query('SELECT * FROM transaction ORDER BY date DESC LIMIT 0,10')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Includes->fetch_posts_home()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Includes))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-12 15:08:07 --> mysqli_sql_exception: Table 'website.transaction' doesn't exist in C:\xampp-2\htdocs\magic_pro\website\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp-2\htdocs\magic_pro\website\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT * FROM t...', 0)
+#1 C:\xampp-2\htdocs\magic_pro\website\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM t...')
+#2 C:\xampp-2\htdocs\magic_pro\website\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM t...')
+#3 C:\xampp-2\htdocs\magic_pro\website\app\Models\Comman_model.php(54): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#4 C:\xampp-2\htdocs\magic_pro\website\app\Controllers\Includes.php(52): App\Models\Comman_model->get_all_data_by_query('SELECT * FROM t...')
+#5 C:\xampp-2\htdocs\magic_pro\website\system\CodeIgniter.php(942): App\Controllers\Includes->fetch_posts_home()
+#6 C:\xampp-2\htdocs\magic_pro\website\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Includes))
+#7 C:\xampp-2\htdocs\magic_pro\website\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp-2\htdocs\magic_pro\website\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-12-12 15:08:07 --> Table 'website.transaction' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Models\Comman_model.php(54): CodeIgniter\Database\BaseConnection->query('SELECT * FROM transaction ORDER BY date DESC LIMIT 0,10')
+ 2 APPPATH\Controllers\Includes.php(52): App\Models\Comman_model->get_all_data_by_query('SELECT * FROM transaction ORDER BY date DESC LIMIT 0,10')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Includes->fetch_posts_home()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Includes))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

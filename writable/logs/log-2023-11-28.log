@@ -1,0 +1,207 @@
+WARNING - 2023-11-28 20:17:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$comman_model is deprecated in APPPATH\Controllers\Home.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-28 20:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-28 20:17:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$account_model is deprecated in APPPATH\Controllers\Account.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-28 20:17:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$comman_model is deprecated in APPPATH\Controllers\Account.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-28 20:17:18 --> [DEPRECATED] Constant FILTER_SANITIZE_STRING is deprecated in APPPATH\Controllers\Account.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-28 20:17:18 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\Account.php on line 13.
+ 1 APPPATH\Controllers\Account.php(13): htmlentities(null, 513)
+ 2 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Account->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-28 20:17:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-28 20:20:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Install::$comman_model is deprecated in APPPATH\Controllers\Install.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Install->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-28 20:20:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-28 20:24:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Install::$comman_model is deprecated in APPPATH\Controllers\Install.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Install->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-28 20:24:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-28 20:27:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Install::$comman_model is deprecated in APPPATH\Controllers\Install.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Install->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-28 20:27:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-28 20:27:43 --> Unknown database 'magic'
+in APPPATH\Controllers\Install.php on line 20.
+ 1 APPPATH\Controllers\Install.php(20): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'magic')
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Install->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Install))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-28 20:27:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Install::$comman_model is deprecated in APPPATH\Controllers\Install.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Install->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-28 20:27:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-28 20:27:58 --> Undefined variable $id
+in APPPATH\Controllers\Install.php on line 22.
+ 1 APPPATH\Controllers\Install.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp-2\\htdocs\\magic_pro\\code\\app\\Controllers\\Install.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Install->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Install))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-28 20:40:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Install::$comman_model is deprecated in APPPATH\Controllers\Install.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Install->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-28 20:40:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-28 20:43:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Install::$comman_model is deprecated in APPPATH\Controllers\Install.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Install->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-28 20:43:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-28 20:43:15 --> Undefined variable $google_client_id
+in APPPATH\Controllers\Install.php on line 83.
+ 1 APPPATH\Controllers\Install.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $google_client_id', 'C:\\xampp-2\\htdocs\\magic_pro\\code\\app\\Controllers\\Install.php', 83)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Install->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Install))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-28 20:43:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Install::$comman_model is deprecated in APPPATH\Controllers\Install.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Install->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-28 20:43:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-28 20:43:50 --> Call to undefined function App\Controllers\project_name()
+in APPPATH\Controllers\Install.php on line 99.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Install->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Install))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-28 20:44:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Install::$comman_model is deprecated in APPPATH\Controllers\Install.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Install->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-28 20:44:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-28 20:45:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Install::$comman_model is deprecated in APPPATH\Controllers\Install.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Install->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-28 20:45:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-28 20:46:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Install::$comman_model is deprecated in APPPATH\Controllers\Install.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Install->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-28 20:46:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-28 20:47:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Install::$comman_model is deprecated in APPPATH\Controllers\Install.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Install->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-28 20:47:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-28 20:47:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Install::$comman_model is deprecated in APPPATH\Controllers\Install.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Install->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-28 20:47:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-28 20:48:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$comman_model is deprecated in APPPATH\Controllers\Home.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-28 20:48:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-28 20:48:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$account_model is deprecated in APPPATH\Controllers\Account.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-28 20:48:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$comman_model is deprecated in APPPATH\Controllers\Account.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-28 20:48:56 --> [DEPRECATED] Constant FILTER_SANITIZE_STRING is deprecated in APPPATH\Controllers\Account.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-28 20:48:56 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\Account.php on line 13.
+ 1 APPPATH\Controllers\Account.php(13): htmlentities(null, 513)
+ 2 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Account->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-28 20:48:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-28 20:50:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Install::$comman_model is deprecated in APPPATH\Controllers\Install.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Install->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-28 20:50:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-28 20:50:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Install::$comman_model is deprecated in APPPATH\Controllers\Install.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Install->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-28 20:50:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-28 20:54:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Install::$comman_model is deprecated in APPPATH\Controllers\Install.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Install->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-28 20:54:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-28 20:56:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Install::$comman_model is deprecated in APPPATH\Controllers\Install.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Install->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-28 20:56:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-28 20:57:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$account_model is deprecated in APPPATH\Controllers\Account.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-28 20:57:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Account::$comman_model is deprecated in APPPATH\Controllers\Account.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-28 20:57:44 --> [DEPRECATED] Constant FILTER_SANITIZE_STRING is deprecated in APPPATH\Controllers\Account.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Account->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-28 20:57:44 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Controllers\Account.php on line 13.
+ 1 APPPATH\Controllers\Account.php(13): htmlentities(null, 513)
+ 2 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Account->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-28 20:57:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-28 20:57:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Install::$comman_model is deprecated in APPPATH\Controllers\Install.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Install->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-28 20:57:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

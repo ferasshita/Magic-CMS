@@ -1,0 +1,945 @@
+CRITICAL - 2023-12-28 19:04:43 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:04:43 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:09:05 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:09:05 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:09:23 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:09:23 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:12:37 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:12:38 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:13:26 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:13:26 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:14:50 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:14:50 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:15:50 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:15:50 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:17:41 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:17:42 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:17:59 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:17:59 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:20:02 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:20:02 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:21:08 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:21:08 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:21:38 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:21:38 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:21:57 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:21:57 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:22:56 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:22:57 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:27:01 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:27:02 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:32:57 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:32:57 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:33:21 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:33:21 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:36:17 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:36:18 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:37:19 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:37:19 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:57:49 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:57:50 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:58:27 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:58:28 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:59:40 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 19:59:40 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:01:10 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:01:10 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:02:42 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:02:42 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:02:54 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:02:54 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:03:39 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:03:39 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:04:37 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:04:37 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:08:51 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:08:51 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:09:26 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:09:26 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:09:51 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:09:52 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:11:00 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:11:01 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:14:42 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:14:42 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:21:05 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:21:05 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:22:46 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:22:46 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:23:06 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:23:06 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:24:33 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:24:34 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:25:18 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:25:18 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 82.
+ 1 APPPATH\Controllers\Home.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:26:40 --> Undefined variable $description
+in APPPATH\Views\home\page.php on line 43.
+ 1 APPPATH\Views\home\page.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $description', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\home\\page.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\home\\page.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('home/page', [], true)
+ 5 APPPATH\Controllers\Home.php(83): view('home/page', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('7')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:27:10 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 83.
+ 1 APPPATH\Controllers\Home.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 83)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:27:11 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 83.
+ 1 APPPATH\Controllers\Home.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 83)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:29:23 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 83.
+ 1 APPPATH\Controllers\Home.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 83)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:29:23 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 83.
+ 1 APPPATH\Controllers\Home.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 83)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:29:32 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 83.
+ 1 APPPATH\Controllers\Home.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 83)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:29:32 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 83.
+ 1 APPPATH\Controllers\Home.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 83)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:30:16 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 83.
+ 1 APPPATH\Controllers\Home.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 83)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:30:17 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 83.
+ 1 APPPATH\Controllers\Home.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 83)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:31:56 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 83.
+ 1 APPPATH\Controllers\Home.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 83)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:31:57 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 83.
+ 1 APPPATH\Controllers\Home.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 83)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:36:36 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 83.
+ 1 APPPATH\Controllers\Home.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 83)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 20:36:36 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 83.
+ 1 APPPATH\Controllers\Home.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 83)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 21:16:01 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 83.
+ 1 APPPATH\Controllers\Home.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 83)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 21:16:02 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 83.
+ 1 APPPATH\Controllers\Home.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 83)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 21:16:03 --> Too few arguments to function App\Controllers\Home::blog(), 0 passed in C:\xampp-2\htdocs\magic_pro\website\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 72.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 21:16:12 --> Undefined variable $blog
+in APPPATH\Views\dashboard\blog.php on line 87.
+ 1 APPPATH\Views\dashboard\blog.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $blog', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php', 87)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/blog', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(72): view('dashboard/blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Dashboard->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-28 21:16:14 --> mysqli_sql_exception: Table 'website.transaction' doesn't exist in C:\xampp-2\htdocs\magic_pro\website\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp-2\htdocs\magic_pro\website\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT * FROM t...', 0)
+#1 C:\xampp-2\htdocs\magic_pro\website\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM t...')
+#2 C:\xampp-2\htdocs\magic_pro\website\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM t...')
+#3 C:\xampp-2\htdocs\magic_pro\website\app\Models\Comman_model.php(54): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#4 C:\xampp-2\htdocs\magic_pro\website\app\Controllers\Includes.php(52): App\Models\Comman_model->get_all_data_by_query('SELECT * FROM t...')
+#5 C:\xampp-2\htdocs\magic_pro\website\system\CodeIgniter.php(942): App\Controllers\Includes->fetch_posts_home()
+#6 C:\xampp-2\htdocs\magic_pro\website\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Includes))
+#7 C:\xampp-2\htdocs\magic_pro\website\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp-2\htdocs\magic_pro\website\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-12-28 21:16:14 --> Table 'website.transaction' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Models\Comman_model.php(54): CodeIgniter\Database\BaseConnection->query('SELECT * FROM transaction ORDER BY date DESC LIMIT 0,10')
+ 2 APPPATH\Controllers\Includes.php(52): App\Models\Comman_model->get_all_data_by_query('SELECT * FROM transaction ORDER BY date DESC LIMIT 0,10')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Includes->fetch_posts_home()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Includes))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 21:16:22 --> Undefined variable $blog
+in APPPATH\Views\dashboard\blog.php on line 87.
+ 1 APPPATH\Views\dashboard\blog.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $blog', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php', 87)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/blog', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(72): view('dashboard/blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Dashboard->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 21:19:17 --> Undefined variable $author
+in APPPATH\Views\dashboard\blog.php on line 89.
+ 1 APPPATH\Views\dashboard\blog.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $author', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php', 89)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/blog', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(72): view('dashboard/blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Dashboard->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 21:26:49 --> Undefined variable $author
+in APPPATH\Views\dashboard\blog.php on line 89.
+ 1 APPPATH\Views\dashboard\blog.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $author', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php', 89)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/blog', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(72): view('dashboard/blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Dashboard->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 21:26:51 --> Undefined variable $author
+in APPPATH\Views\dashboard\blog.php on line 89.
+ 1 APPPATH\Views\dashboard\blog.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $author', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php', 89)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/blog', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(72): view('dashboard/blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Dashboard->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 21:31:33 --> Undefined variable $author
+in APPPATH\Views\dashboard\blog.php on line 89.
+ 1 APPPATH\Views\dashboard\blog.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $author', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php', 89)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/blog', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(72): view('dashboard/blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Dashboard->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 21:31:34 --> Undefined variable $author
+in APPPATH\Views\dashboard\blog.php on line 89.
+ 1 APPPATH\Views\dashboard\blog.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $author', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php', 89)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/blog', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(72): view('dashboard/blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Dashboard->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 21:32:15 --> Undefined variable $author
+in APPPATH\Views\dashboard\blog.php on line 89.
+ 1 APPPATH\Views\dashboard\blog.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $author', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php', 89)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/blog', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(72): view('dashboard/blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Dashboard->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 21:32:16 --> Undefined variable $author
+in APPPATH\Views\dashboard\blog.php on line 89.
+ 1 APPPATH\Views\dashboard\blog.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $author', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php', 89)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/blog', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(72): view('dashboard/blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Dashboard->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 21:32:46 --> Undefined variable $author_name
+in APPPATH\Views\dashboard\blog.php on line 89.
+ 1 APPPATH\Views\dashboard\blog.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $author_name', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php', 89)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/blog', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(72): view('dashboard/blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Dashboard->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 21:32:47 --> Undefined variable $author_name
+in APPPATH\Views\dashboard\blog.php on line 89.
+ 1 APPPATH\Views\dashboard\blog.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $author_name', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php', 89)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/blog', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(72): view('dashboard/blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Dashboard->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 21:33:38 --> Undefined variable $FetchedDatai
+in APPPATH\Views\dashboard\blog.php on line 84.
+ 1 APPPATH\Views\dashboard\blog.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $FetchedDatai', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php', 84)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/blog', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(72): view('dashboard/blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Dashboard->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 21:33:41 --> Undefined variable $FetchedDatai
+in APPPATH\Views\dashboard\blog.php on line 84.
+ 1 APPPATH\Views\dashboard\blog.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $FetchedDatai', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php', 84)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/blog', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(72): view('dashboard/blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Dashboard->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 21:34:21 --> Undefined variable $FetchedDatai
+in APPPATH\Views\dashboard\blog.php on line 84.
+ 1 APPPATH\Views\dashboard\blog.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $FetchedDatai', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php', 84)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/blog', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(72): view('dashboard/blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Dashboard->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 21:34:22 --> Undefined variable $FetchedDatai
+in APPPATH\Views\dashboard\blog.php on line 84.
+ 1 APPPATH\Views\dashboard\blog.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $FetchedDatai', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php', 84)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/blog', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(72): view('dashboard/blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Dashboard->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 21:34:25 --> Undefined variable $FetchedDatai
+in APPPATH\Views\dashboard\blog.php on line 84.
+ 1 APPPATH\Views\dashboard\blog.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $FetchedDatai', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php', 84)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/blog', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(72): view('dashboard/blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Dashboard->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 21:38:09 --> Undefined variable $FetchedDatai
+in APPPATH\Views\dashboard\blog.php on line 84.
+ 1 APPPATH\Views\dashboard\blog.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $FetchedDatai', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php', 84)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/blog', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(72): view('dashboard/blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Dashboard->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 21:38:11 --> Undefined variable $FetchedDatai
+in APPPATH\Views\dashboard\blog.php on line 84.
+ 1 APPPATH\Views\dashboard\blog.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $FetchedDatai', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php', 84)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/blog', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(72): view('dashboard/blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Dashboard->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 21:41:04 --> syntax error, unexpected token "echo", expecting "function" or "const"
+in APPPATH\Controllers\Dashboard.php on line 82.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('dashboard/blog', 'get')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('dashboard/blog')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('dashboard/blog')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 21:41:22 --> Undefined variable $user_id
+in APPPATH\Controllers\Dashboard.php on line 72.
+ 1 APPPATH\Controllers\Dashboard.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user_id', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Dashboard.php', 72)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Dashboard->blog()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 21:42:47 --> Undefined variable $FetchedDatai
+in APPPATH\Views\dashboard\blog.php on line 84.
+ 1 APPPATH\Views\dashboard\blog.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $FetchedDatai', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php', 84)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/blog', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(80): view('dashboard/blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Dashboard->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 22:19:03 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 92.
+ 1 APPPATH\Controllers\Home.php(92): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 92)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 22:19:04 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 92.
+ 1 APPPATH\Controllers\Home.php(92): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 92)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 22:19:19 --> Invalid file: "home/not.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home/not.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('home/not', [], true)
+ 3 APPPATH\Controllers\Home.php(94): view('home/not', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('7')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 22:19:38 --> Invalid file: "not.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('not.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('not', [], true)
+ 3 APPPATH\Controllers\Home.php(94): view('not')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('7')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 22:20:29 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 92.
+ 1 APPPATH\Controllers\Home.php(92): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 92)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Includes', 'fetch_posts_undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 22:20:30 --> Undefined variable $data
+in APPPATH\Controllers\Home.php on line 92.
+ 1 APPPATH\Controllers\Home.php(92): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Controllers\\Home.php', 92)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->blog('Asset', 'imgs', 'main_icons', 'svg-icon', 'settings.svg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 22:25:44 --> Undefined property: CodeIgniter\View\View::$request
+in APPPATH\Views\dashboard\blog.php on line 54.
+ 1 APPPATH\Views\dashboard\blog.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php', 54)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/blog', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(90): view('dashboard/blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Dashboard->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-28 22:30:56 --> Undefined variable $blog_text
+in APPPATH\Views\dashboard\blog.php on line 35.
+ 1 APPPATH\Views\dashboard\blog.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $blog_text', 'C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php', 35)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp-2\\htdocs\\magic_pro\\website\\app\\Views\\dashboard\\blog.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/blog', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(90): view('dashboard/blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Dashboard->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
