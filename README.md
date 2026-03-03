@@ -19,7 +19,7 @@ Create your own website for free with Magic CMS, easy to install and fast to use
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact me](#Contact Me)
+- [Contact me](#Contact)
 
 <!-- Features -->
 ## Features
